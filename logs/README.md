@@ -6,5 +6,9 @@ This repo uses the Mask RCNN model from Matterport to train a custom model for d
 
 I have also written a blog that goes into more details on how I trained a custom model. Please see it at the link below:
 
+https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/  
+
+In addition, you could find the trained log files in the “logs”folder in the root path. 
+
 
 
