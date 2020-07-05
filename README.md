@@ -19,5 +19,8 @@ python labelImg.py
 
 More usage detail could be linked to [this article](https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d)
 
-## Be familiar with 
+## Be familiar with image alignment and find homography opencv function.
+
+[Tutorial](https://www.learnopencv.com/homography-examples-using-opencv-python-c/) for find homography openCV.
+
 
