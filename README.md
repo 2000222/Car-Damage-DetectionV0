@@ -3,9 +3,15 @@ AI methods for Car Damage Detection with Mask-RCNN
 
 Run a baseline for instance segmentation on car damage detection.
 
+```
 python custom.py train --dataset=./customImages/ --weights=coco
+```
 
+Resume a pre-trained model to train. (Make Sure the model at the folder)
+```
 python custom.py train --dataset=./customImages/ --weights=last
+```
+
 
 # Car-Damage-DetectionV1
 ## Annotate the new car dataset with labelimg：
