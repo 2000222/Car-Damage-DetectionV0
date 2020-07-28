@@ -35,3 +35,5 @@ More usage detail could be linked to [this article](https://medium.com/deepquest
 1. Contrastive learning paper: SimCLR;  
 
 2. PointNet:  https://github.com/charlesq34/pointnet
+
+https://github.com/fxia22/pointnet.pytorch  Classification + Segmentation.
