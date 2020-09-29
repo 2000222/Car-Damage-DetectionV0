@@ -33,10 +33,14 @@ More usage detail could be linked to [this article](https://medium.com/deepquest
 [Tutorial](https://www.learnopencv.com/homography-examples-using-opencv-python-c/) for find homography openCV.
 
 # Car-Damage-DetectionV1
-## New ideass with Contrastive Learning or 3D computer vision.
+## New ideas with Contrastive Learning or 3D computer vision.
 
 1. Contrastive learning paper: SimCLR;  
 
 2. PointNet:  https://github.com/charlesq34/pointnet
 
 https://github.com/fxia22/pointnet.pytorch  Classification + Segmentation.
+
+# Car-Damage-DetectionV2
+## Propose a new self-supervised Patch-to-patch image alignment method with contrastive learning. 
+Need to design a scientific self-supervised evaluation method. 
