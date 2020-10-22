@@ -43,4 +43,4 @@ https://github.com/fxia22/pointnet.pytorch  Classification + Segmentation.
 
 # Car-Damage-DetectionV2
 ## Propose a new self-supervised Patch-to-patch image alignment method with contrastive learning. 
-Need to design a scientific self-supervised evaluation method. 
+Need to design a scientific self-supervised evaluation method with T-SNE. 
