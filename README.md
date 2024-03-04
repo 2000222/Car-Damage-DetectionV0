@@ -44,7 +44,7 @@ More usage detail could be linked to [this article](https://medium.com/deepquest
 https://github.com/fxia22/pointnet.pytorch  Classification + Segmentation.
 
 # Car-Damage-DetectionV2
-## Need to improve the training speed and change the augmentation issue.  
+[1] Need to improve the training speed and change the augmentation issue.  
 
-## Propose a new self-supervised Patch-to-patch image alignment method with contrastive learning. 
+[2] Propose a new self-supervised Patch-to-patch image alignment method with contrastive learning. 
 Need to design a scientific self-supervised evaluation method with T-SNE. 
