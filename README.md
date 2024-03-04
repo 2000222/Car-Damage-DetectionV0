@@ -34,7 +34,6 @@ More usage detail could be linked to [this article](https://medium.com/deepquest
 
 [Tutorial](https://www.learnopencv.com/homography-examples-using-opencv-python-c/) for find homography openCV.
 
-# Car-Damage-DetectionV1
 ## New ideas with Contrastive Learning or 3D computer vision.
 
 1. Contrastive learning paper: SimCLR;  
